@@ -8,7 +8,7 @@ I'm a highly skilled full stack web developer for 2+ years, with a specializatio
 
 * 🌍  I'm based in Salatiga, Jawa Tengah, Indonesia
 * ✉️  You can contact me at [bofly321@gmail.com](mailto:bofly321@gmail.com)
-* 🧠  I'm learning Go-Lang and ReactJS
+* 🧠  I'm learning Go-Lang and NodeJS
 * 🤝  I'm open to collaborating on Any Web Application
 
 ### Skills
