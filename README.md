@@ -32,7 +32,7 @@ I'm a highly skilled full stack web developer for 2+ years, with a specializatio
 
 <p align="left"> 
   <a href="https://www.github.com/BoflyEta" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a> 
-  <a href="http://www.instagram.com/bofly_uiux" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="http://www.instagram.com/boflyeta.dev" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/bofly-eta-17897b1a0/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
