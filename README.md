@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I'm a highly skilled full stack web developer for 2+ years, with a specialization in fulk-stack development. Proficient in Laravel, PHP, JavaScript, Java, JQuery, and Git. I have an impressive portfolio of successful projects, including a Payroll System, a Research Information System, a Accountant Information System, and more. With a passion for coding and a commitment to delivering high-quality solutions, I'm a invaluable asset in the world of app development. My strong problem-solving skills and attention to detail make them a reliable and trusted partner for any app development project.
+I'm a highly skilled full stack web developer for 3+ years, with a specialization in fulk-stack development. Proficient in Laravel, PHP, JavaScript, Java, JQuery, and Git. I have an impressive portfolio of successful projects, including a Payroll System, a Research Information System, a Accountant Information System, and more. With a passion for coding and a commitment to delivering high-quality solutions, I'm a invaluable asset in the world of app development. My strong problem-solving skills and attention to detail make them a reliable and trusted partner for any app development project.
 
 * 🌍  I'm based in Salatiga, Jawa Tengah, Indonesia
 * ✉️  You can contact me at [bofly321@gmail.com](mailto:bofly321@gmail.com)
